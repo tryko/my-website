@@ -15,7 +15,7 @@ footer {
 
 .parallax {
   /* The image used */
-  background-image: url("../assets/slide1.jpg");
+  background-image: url("../../assets/slide1.jpg");
 
   /* Set a specific height */
   min-height: 500px;
