@@ -1,0 +1,36 @@
+/* i will try to style everything by myself */
+/* and than try to use bootstrap to see the difference */
+
+header {
+  height: 40px;
+  background-color: grey;
+}
+
+.main-content {
+  background-color: red;
+}
+footer {
+  background-color: greenyellow;
+}
+
+.parallax {
+  /* The image used */
+  background-image: url("../assets/slide1.jpg");
+
+  /* Set a specific height */
+  min-height: 500px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.box {
+  margin: 0 auto;
+  
+  width: 500px;
+  height: 500px;
+  background-color: grey;
+}
